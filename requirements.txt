@@ -3,3 +3,4 @@ protobuf==4.25.3
 psycopg2-binary
 Requests==2.31.0
 streamlit==1.28.1
+google-generativeai
